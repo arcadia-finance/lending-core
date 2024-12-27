@@ -17,7 +17,7 @@ Arcadia Finance is an Open Source protocol building solutions for digital assets
 
 Arcadia Vaults are user-controlled vaults enabling the on-chain pricing of any combination of different types of assets in one single base currency. Arcadia Vaults are non-custodial and allow its owner to actively manage the collateral contained within the Vault.
 
-Arcadia Vaults themselves are according to the ERC-721 standard and can thus be represented as a single asset. This means that vaults are fully composable with existing infrastructure and are straightforward to integrate. Other benefits are that vaults can be tracked and monitored trough existing DeFi dashboards. Working according to this standard also opens up use-cases where vaults can be sold in their entirety on existing NFT marketplaces.
+Arcadia Vaults themselves are according to the ERC-721 standard and can thus be represented as a single asset. This means that vaults are fully composable with existing infrastructure and are straightforward to integrate. Other benefits are that vaults can be tracked and monitored through existing DeFi dashboards. Working according to this standard also opens up use-cases where vaults can be sold in their entirety on existing NFT marketplaces.
 
 [Arcadia Lending](https://github.com/arcadia-finance/arcadia-lending) is the first financial product being built on top of the Arcadia Vaults.
 
@@ -37,7 +37,7 @@ In our current version, the following asset types are supported:
 
 - ERC20s
 - ERC4626s
-- Uniswap & Sushiwap V2 LP
+- Uniswap & SushiSwap V2 LP
 - Uniswap V3 LP
 - Floor NFTs of select blue-chip collections (ERC721 & ERC1155)
 - AAVE aTokens
@@ -78,7 +78,7 @@ The Arcadia protocol can in no way change the version of a user-owned deployed v
 
 ## Composable
 
-Arcadia Vaults themselves are according to the ERC-721 standard and can thus be represented as a single asset. This means that vaults are fully composable with existing infrastructure and are straightforward to integrate. Other benefits are that vaults can be tracked and monitored trough existing DeFi dashboards and it opens up use-cases where vaults can be sold in their entirety on existing NFT marketplaces.
+Arcadia Vaults themselves are according to the ERC-721 standard and can thus be represented as a single asset. This means that vaults are fully composable with existing infrastructure and are straightforward to integrate. Other benefits are that vaults can be tracked and monitored through existing DeFi dashboards and it opens up use-cases where vaults can be sold in their entirety on existing NFT marketplaces.
 
 ## Active management of assets under collateral
 
